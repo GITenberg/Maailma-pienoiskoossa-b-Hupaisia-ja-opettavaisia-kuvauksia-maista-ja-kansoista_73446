@@ -1,0 +1,41 @@
+_repo: Maailma-pienoiskoossa-b-Hupaisia-ja-opettavaisia-kuvauksia-maista-ja-kansoista_73446
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ilmoni, Wikki
+    gutenberg_agent_id: '46783'
+    url: http://www.gutenberg.org/2009/agents/46783
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstacker, Friedrich
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstaecker, Frederick
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+    - https://en.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2024-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73446'
+language: fi
+pgterms:marc905: 20230726101415gerstcker
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPori :$bGustav Ronelius, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geography -- Juvenile literature'
+- !lcc 'G'
+- GITenberg
+title: 'Maailma pienoiskoossa : $b Hupaisia ja opettavaisia kuvauksia maista ja kansoista'
+url: http://www.gutenberg.org/ebooks/73446
