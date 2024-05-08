@@ -5,6 +5,9 @@ contributor:
     agent_name: Ilmoni, Wikki
     gutenberg_agent_id: '46783'
     url: http://www.gutenberg.org/2009/agents/46783
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gerstäcker, Friedrich
@@ -20,6 +23,8 @@ creator:
     - https://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
     - https://en.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73446#Maailma-pienoiskoossa-b-Hupaisia-ja-opettavaisia-kuvauksia-maista-ja-kansoista
 gutenberg_issued: '2024-04-22'
 gutenberg_type: Text
 identifiers:
